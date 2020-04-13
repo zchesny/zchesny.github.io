@@ -1,11 +1,11 @@
 # Site settings
 author: Zoey Chesny
-title: 
+title: One line (of code) at a time...
 header-img: img/home-bg.png
 email: z.chesny@gmail.com
 copyright_name: Zoey Chesny
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey through full stack web development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  zchesny
