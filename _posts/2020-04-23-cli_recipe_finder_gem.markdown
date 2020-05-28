@@ -1,8 +1,8 @@
 ---
 layout: post
-title:      "Command Line Interface Recipe Finder Gem"
+title:      "CLI Recipe Finder Gem"
 date:       2020-04-23 06:47:12 +0000
-permalink:  command_line_interface_recipe_finder_gem
+permalink:  cli_recipe_finder_gem
 ---
 
 
