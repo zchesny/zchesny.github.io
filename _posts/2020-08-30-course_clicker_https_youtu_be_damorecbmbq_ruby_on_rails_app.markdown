@@ -1,8 +1,8 @@
 ---
 layout: post
-title:      "[Course Clicker](https://youtu.be/DAmorecbMBQ) Ruby on Rails App"
+title:      "Course Clicker Ruby on Rails App"
 date:       2020-08-31 00:50:42 +0000
-permalink:  course_clicker_https_youtu_be_damorecbmbq_ruby_on_rails_app
+permalink:  course_clicker_ruby_on_rails_app
 ---
 
 
